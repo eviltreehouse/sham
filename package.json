@@ -1,0 +1,17 @@
+{
+  "name": "sham",
+  "version": "0.4.0",
+  "description": "Sometimes `sinon` is overkill",
+  "main": "sham.js",
+  "scripts": {
+    "build": "minify ./src/sham.js > ./dist/sham.min.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Corey Sharrah <corey@eviltreehouse.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "minify": "^6.0.1",
+    "mocha": "^8.2.1"
+  }
+}
