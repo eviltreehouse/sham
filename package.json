@@ -1,6 +1,6 @@
 {
   "name": "sham",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sometimes `sinon` is overkill",
   "main": "sham.js",
   "scripts": {
